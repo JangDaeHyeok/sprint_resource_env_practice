@@ -5,9 +5,9 @@ spring:
   datasource:
     hikari:
       driver-class-name: net.sf.log4jdbc.sql.jdbcapi.DriverSpy
-      jdbc-url: jdbc:log4jdbc:mysql://localhost:3306/test_slave?characterEncoding=UTF-8
-      username: root
-      password: 1234
+      jdbc-url: ENC(B5BjQra3iZPYO86LXe8GGSPDSlh98zvxeGOp5O1+zy0JmJQMTgTpS+xpvbYPcTW0TICIgfissv4z0EUFFJ4Wa3uEKT2FCOy0jBJaNabPp00=)
+      username: ENC(8vAVofXYBjjKTLbTTrk21A==)
+      password: ENC(1yCnLpE+6jUmEkjVta94gQ==)
 
 logging:
   level:
